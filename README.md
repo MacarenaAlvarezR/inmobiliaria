@@ -28,7 +28,3 @@ Aplicación web desarrollada con JavaScript que permite visualizar propiedades e
 - Renderizado dinámico de contenido.
 - Uso de estructuras condicionales.
 - Desarrollo de interfaces web dinámicas.
-
-## Autor
-
-**Macarena Álvarez**
